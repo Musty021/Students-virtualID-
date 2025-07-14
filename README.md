@@ -59,7 +59,7 @@ Contributions are welcome!
 ## Author
 
 Mustapha Shehu Ahmad 
-Departmant of Information Technology
+
 
 ## Contact
 
