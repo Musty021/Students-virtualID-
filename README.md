@@ -44,7 +44,8 @@ Students Virtual ID is an advanced biometric identity management system designed
 
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Start development server: `npm run dev`
+3. Install Vite `npm install vite@4.5.0`
+4. Start development server: `npm run dev`
 
 ## Security
 
